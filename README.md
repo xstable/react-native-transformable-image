@@ -10,7 +10,11 @@ Written in pure JS, this component should be one of the most easy to use compone
 
 ## Install
 
- `npm install --save react-native-transformable-image@latest`
+```bash
+npm install --save react-native-transformable-image@latest
+# or yarn:
+# yarn add react-native-transformable-image@latest
+```
 
 
 
